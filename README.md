@@ -41,7 +41,7 @@ The dashboard contains:
 - Slicers
 
 ## Dashboard Preview
-![Dashboard](Dashboard.png)
+Dashboard screenshot.png
 
 ## Author
 Pranav Nikate
