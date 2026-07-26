@@ -42,6 +42,6 @@ The dashboard contains:
 
 ## Dashboard Preview
 Dashboard screenshot.png
-
+https://github.com/Pranav-Nikate/Sales-Dashboard-Project/blob/72573482bfb73a69c8aa09ec5464157d66d203bc/Dashboard%20screenshot.png
 ## Author
 Pranav Nikate
