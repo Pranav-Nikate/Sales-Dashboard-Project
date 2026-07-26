@@ -41,7 +41,7 @@ The dashboard contains:
 - Slicers
 
 ## Dashboard Preview
-[![Dashboard](Dashboard screenshot.png)
-](https://github.com/Pranav-Nikate/Sales-Dashboard-Project/tree/main)
+Dashboard screenshot.png
+
 ## Author
 Pranav Nikate
